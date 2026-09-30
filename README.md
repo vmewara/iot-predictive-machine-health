@@ -150,7 +150,5 @@ This project uses simulated sensor data generated through Wokwi and is intended 
 Author
 
 S.Vishal
-
-Vishal Mewara
 BCA Data Science
 SRM Institute of Science and Technology
